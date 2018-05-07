@@ -2388,12 +2388,12 @@
                 <div type="item">
                     <head>COAL AND GOLD IN EGYPT.</head>
                     <head>THE CAIRO SYNDICATE.</head>
-                    <p>The following ingennoaaly framed article is from the "Financial News” :--</p>
+                    <p>The following the framed article is from the "Financial News” :--</p>
                     <p>A couple of months ago attention was directed in these colnmns to the growing
-                        in proveraents of thfc Egyptian coil indnstry. It was pointed out that at
+                        in proveraents of the Egyptian coil indnstry. It was pointed out that at
                         present the coil which is consumed in the Land of the Pharaohs has to be
                         imported at great coast, and, in addition, a supply has to be procured for
-                        the vessels at Suez and Port Ssid, which are making use of the world’s
+                        the vessels at Suez and Port Said, which are making use of the world’s
                         greatest waterway. These considers ions render it self-evident that if the
                         coal reionroea of Egypt could be developed op to each a point as to render
                         the country independent of ontside assistance in the matter of fuel, a great
@@ -4556,7 +4556,7 @@
                 </div>
                 <div type="item" xml:lang="fr" xml:id="deg-el-extr01">
                     <head>Exterieur</head>
-                    <p>Dépêches particulières du <date when="1906-03-26">26 mars 1906</date></p>
+                    <p>Dépêches particulières du <date when="1906-03-29">29 mars 1906</date></p>
                     <p>PRODUITS EGYPTIENS</p>
                     <p>LIVERPOOL</p>
                     <p><hi rend="italic">Coton: Etat du Marché</hi>.—Soutenu</p>
@@ -4587,7 +4587,7 @@
                 </div>
                 <div type="item" xml:lang="fr" xml:id="deg-el-teha01">
                     <head>TELEGRAMME HAVAS</head>
-                    <dateline>BOURSE du <date when="1906-03-26">26 mars 1906</date></dateline>
+                    <dateline>BOURSE du <date when="1906-03-29">29 mars 1906</date></dateline>
                     <p>COURS DES VALEURS A TERMS, CLOTURE</p>
                     <table cols="3" xml:id="deg-ta-teha01">
                         <row role="label">
@@ -4686,6 +4686,7 @@
                             <measure>5%</measure>
                     </p>
                 </div>
+                
                 <div type="item" xml:id="deg-el-shli01">
                     <head>SHARE LIST</head>
                     <p>Issued by the “Association des Courtiers en Valeurs d'Alexandrie”.</p>
